@@ -1,0 +1,3 @@
+Simple server-client socke in C: https://stackoverflow.com/questions/307692/simplest-way-to-open-and-use-a-socket-in-c
+Socket send() sendto() C doc: https://beej.us/guide/bgnet/output/html/multipage/sendman.html
+Socet server-cliente C doc: https://beej.us/guide/bgnet/output/html/multipage/clientserver.html
