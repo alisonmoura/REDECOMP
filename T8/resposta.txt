@@ -1,0 +1,9 @@
+Integrantes:
+ - Alison I. O. de Moura: 2015.1907.016-0
+ - Hanan Cavalcante: 2014.1907.029-0
+
+Resposta:
+    Por falta de experiência e conhecimento não podemos finalizar a análise completa das rotas.
+    Porém, o algoritmo seleciona o melhor caminho dentre as opções. Por problemas com a manipulação 
+    de string, não conseguimos capturar a string de interface de rede, porém é feita a combinação da 
+    máscara com o gateway para comparação com o IP. Na maioria dos casos ele funciona como esperado.
